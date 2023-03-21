@@ -40,7 +40,7 @@ console.log(`sum of 1+2 is ${1+2}`);
 ```
 
 
-### using escape sequence inside string \
+### using escape sequence inside string
 
 ``` js
 console.log(""hi"");//gives you an error
