@@ -1,7 +1,7 @@
 #### Table of contents
 [special numbers](#special-numbers)
-|[Strings](#strings-surrounded-by-single-or-double-quotes-or-back-tick-quotes)(#)
-|[escape sequence](#using-escape-sequence-inside-string)
+|[Strings](#strings-surrounded-by-single-or-double-quotes-or-back-tick-quotes)
+|[escape sequence(#using-escape-sequence-inside-string)
 |[booleans](#booleans-only-have-two-values)
 |[Automatic type coversion](#automatic-type-conversion)
 |[operators](#operators)
